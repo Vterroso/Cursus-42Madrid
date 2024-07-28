@@ -1,8 +1,8 @@
 # 42_CURSUS 🚀
 
-Hola, soy **vterroso** en 42 Madrid.
+Hi!, I'm **vterroso** in 42 Madrid.
 
-Éste es mi progreso en el cursus:
+This is my progress at the cursus:
 
 <img width="500" src="https://user-images.githubusercontent.com/112553001/224488530-23e5b82c-74f7-4911-a379-d817a534695f.jpg">
 
